@@ -14,3 +14,5 @@ root.mainloop()
 photo=PhotoImage(file="Record.png")
 myimage=Label(image=photo,background="#4a4a4a")
 myimage.pack(padx=5,pady=5)
+
+print('hello world')
